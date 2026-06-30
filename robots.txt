@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emir2011-hris.github.io/doc-share/sitemap.xml
